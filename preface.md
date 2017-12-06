@@ -20,7 +20,8 @@ Each chapter of the book is divided into the following sections: Objectives, The
 
 The following figure illustrates the dependencies among the chapters.
 下图说明了各章之间的依赖关系。
-![Sorry the pic error]()(https://github.com/11380824/Neural-network-design/raw/master/Screenshots/dependencies.png)
+
+![Sorry the pic error](https://github.com/11380824/Neural-network-design/blob/master/Screenshots/dependencies.jpg)
 
 Chapters 1 through 6 cover basic concepts that are required for all of the remaining chapters. Chapter 1 is an introduction to the text, with a brief historical background and some basic biology. Chapter 2 describes the basic neural network architectures. The notation that is introduced in this chapter is used throughout the book. In Chapter 3 we present a simple pat- tern recognition problem and show how it can be solved using three differ- ent types of neural networks. These three networks are representative of the types of networks that are presented in the remainder of the text. In addition, the pattern recognition problem presented here provides a common thread of experience throughout the book.
 第1章到第6章涵盖了剩余章节所需的基本概念。 第一章是对文本的介绍，简要的历史背景和一些基本的生物学。 第2章介绍了基本的神经网络架构。 本章介绍的符号在本书中使用。 在第3章中，我们提出一个简单的模式识别问题，并说明如何使用三种不同类型的神经网络来解决这个问题。 这三个网络是本文其余部分介绍的网络类型的代表。 另外，这里给出的模式识别问题在本书中提供了一个共同的经验。
