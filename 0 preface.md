@@ -1,4 +1,4 @@
-#Preface
+# Preface
 
 ```
 前言
@@ -110,7 +110,7 @@ The demonstrations require MATLAB or the student edition of MATLAB, version 2010
 演示需要MATLAB或MATLAB版本2010a或更高版本的学生版本。 有关使用演示软件的具体信息，请参阅附录C.
 ```
 
-##Overheads
+## Overheads
 
 As an aid to instructors who are using this text, we have prepared a companion set of overheads.Transparency masters (in Microsoft Powerpoint format or PDF) for each chapter are available on the web at hagan.okstate.edu/nnd.html.
 
