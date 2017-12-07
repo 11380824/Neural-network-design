@@ -14,8 +14,8 @@ Every effort has been made to present material in a clear and consistent manner 
 
 ```
 已尽一切努力以清晰和一致的方式呈现材料，使本书可以轻松阅读和应用。 我们已经包含了很多已解决的问题来说明每个讨论的话题。 在最后的章节中，我们还包括了一些案例研究，以展示在现实世界问题中使用神经网络时出现的实际问题。
-
 ```
+
 Since this is a book on the design of neural networks, our choice of topics was guided by two principles. First, we wanted to present the most useful and practical neural network architectures, learning rules and training
 techniques. Second, we wanted the book to be complete in itself and to flow easily from one chapter to the next. For this reason, various introductory materials and chapters on applied mathematics are included just before
 they are needed for a particular subject. In summary, we have chosen some topics because of their practical importance in the application of neural networks, and other topics because of their importance in explaining how neural networks operate.
